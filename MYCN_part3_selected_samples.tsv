@@ -1,0 +1,15 @@
+Cohort	Sample Name	Feature ID	Classification	Cancer Type	Graph file path / notes
+PCAWG	DO35542-SP78663	DO35542-SP78663_amplicon1_ecDNA_2	ecDNA	Medulloblastoma	\Project\raw_data\batch1\PCAWG\DO35542-SP78663\DO35542-SP78663_AA_results\DO35542-SP78663_amplicon1_graph.txt
+PCAWG	DO35556-SP78677	DO35556-SP78677_amplicon1_ecDNA_1	ecDNA	Medulloblastoma	\Project\raw_data\batch1\PCAWG\DO35556-SP78677\DO35556-SP78677_AA_results\DO35556-SP78677_amplicon1_graph.txt
+PCAWG	DO35573-SP78718	DO35573-SP78718_amplicon1_ecDNA_1	ecDNA	Medulloblastoma	\Project\raw_data\batch1\PCAWG\DO35573-SP78718\DO35573-SP78718_AA_results\DO35573-SP78718_amplicon1_graph.txt
+PCAWG	DO35625-SP78822	DO35625-SP78822_amplicon1_Linear_1	Linear	Medulloblastoma	\Project\raw_data\batch1\PCAWG\DO35625-SP78822\DO35625-SP78822_AA_results\DO35625-SP78822_amplicon1_graph.txt
+PCAWG	DO42240-SP92332	DO42240-SP92332_amplicon1_Complex-non-cyclic_1	Complex-non-cyclic	Uterus Adenocarcinoma	\Project\raw_data\batch1\PCAWG\DO42240-SP92332\DO42240-SP92332_AA_results\DO42240-SP92332_amplicon1_graph.txt
+PCAWG	DO48943-SP107462	DO48943-SP107462_amplicon1_ecDNA_1	ecDNA	Medulloblastoma	\Project\raw_data\batch1\PCAWG\DO48943-SP107462\DO48943-SP107462_AA_results\DO48943-SP107462_amplicon1_graph.txt
+PCAWG	DO48948-SP107467	DO48948-SP107467_amplicon1_ecDNA_1	ecDNA	Medulloblastoma	\Project\raw_data\batch1\PCAWG\DO48948-SP107467\DO48948-SP107467_AA_results\DO48948-SP107467_amplicon1_graph.txt
+Pediatric Pancancer	BS_K3F9WIAN	BS_K3F9WTAN_amplicon1_ecDNA_1	ecDNA	NA	\Project\raw_data\batch2\Prediatric\BS_K3F9WTAN\BS_K3F9WTAN_AA_results\BS_K3F9WTAN_amplicon1_graph.txt
+Pediatric Pancancer	BS_R8820GP1	BS_R8820GP1_amplicon1_ecDNA_1	ecDNA	NA	\Project\raw_data\batch2\Prediatric\BS_R8820GP1\BS_R8820GP1_AA_results\BS_R8820GP1_amplicon1_graph.txt
+Pediatric Pancancer	BS_DPRBAXTR	BS_DPRBAXTR_amplicon1_ecDNA_1	ecDNA	NA	\Project\raw_data\batch2\Prediatric\BS_DPRBAXTR\BS_DPRBAXTR_AA_results\BS_DPRBAXTR_amplicon1_graph.txt
+Pediatric Pancancer	BS_P3NDA9Z7	BS_P3NDA9Z7_amplicon1_BFB_1	BFB	NA	\Project\raw_data\batch2\Prediatric\BS_P3NDA9Z7\BS_P3NDA9Z7_AA_results\BS_P3NDA9Z7_amplicon1_graph.txt
+Pediatric Pancancer	BS_ANZMQ09Q	BS_ANZMQ09Q_amplicon1_Complex-non-cyclic_1	Complex-non-cyclic	NA	\Project\raw_data\batch2\Prediatric\BS_ANZMQ09Q\BS_ANZMQ09Q_AA_results\BS_ANZMQ09Q_amplicon1_graph.txt
+Pediatric Pancancer	BS_BF2MCS03	BS_BF2MCS03_amplicon1_ecDNA_1	ecDNA	NA	\Project\raw_data\batch2\Prediatric\BS_BF2MCS03\BS_BF2MCS03_AA_results\BS_BF2MCS03_amplicon1_graph.txt
+Pediatric Pancancer	BS_GW7MKKP9	BS_GW7MKKP9_amplicon1_ecDNA_1	ecDNA	NA	\Project\raw_data\batch2\Prediatric\BS_GW7MKKP9\BS_GW7MKKP9_AA_results\BS_GW7MKKP9_amplicon1_graph.txt

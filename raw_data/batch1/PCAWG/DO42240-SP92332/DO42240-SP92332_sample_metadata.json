@@ -1,0 +1,12 @@
+{
+  "cancer_type": "Uterus Adenocarcinoma",
+  "sample_type": "Primary tumour - solid tissue",
+  "race": "ASN",
+  "tumor_stage": NaN,
+  "days_to_death": NaN,
+  "days_to_last_follow_up": 1507.0,
+  "smoking_history": NaN,
+  "patient_sex": "female",
+  "aa_sample_name": "dad41e81-a544-59c5-878f-f9b6729fc49b__98a9adc4-1b94-5260-a29f-85eee8e79265",
+  "provider_sample_name": "SP92332"
+}

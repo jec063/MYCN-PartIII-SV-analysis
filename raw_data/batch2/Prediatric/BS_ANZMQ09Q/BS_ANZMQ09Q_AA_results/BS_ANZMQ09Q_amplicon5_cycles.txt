@@ -1,0 +1,11 @@
+Interval	1	chr13	98738581	103045000
+List of cycle segments
+Segment	1	chr13	98738581	101241794
+Segment	2	chr13	98738991	101241794
+Segment	3	chr13	101244068	101822741
+Segment	4	chr13	101244068	103045000
+Segment	5	chr13	101823557	102979434
+Segment	6	chr13	102979939	103045000
+Cycle=1;Copy_count=3.46660844963;Segments=0+,4-,2-,0-
+Cycle=2;Copy_count=1.54364928809;Segments=0+,4-,1-,0-
+Cycle=3;Copy_count=0.885340961179;Segments=0+,6-,5-,3-,1-,0-

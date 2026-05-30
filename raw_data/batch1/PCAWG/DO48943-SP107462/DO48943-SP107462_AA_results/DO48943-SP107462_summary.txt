@@ -1,0 +1,17 @@
+#Amplicons = 1
+-----------------------------------------------------------------------------------------
+[amplicon1] AmpliconID = 1
+[amplicon1] #Intervals = 2
+[amplicon1] Intervals = 1:244468980-244479294,2:15280545-16184796
+[amplicon1] OncogenesAmplified = MYCN,
+[amplicon1] TotalIntervalSize = 914567
+[amplicon1] AmplifiedIntervalSize = 764195
+[amplicon1] AverageAmplifiedCopyCount = 26.319769218226618
+[amplicon1] #Chromosomes = 2
+[amplicon1] #SeqenceEdges = 37
+[amplicon1] #BreakpointEdges = 16
+[amplicon1] #CoverageShifts = 4
+[amplicon1] #MeanshiftSegmentsCopyCount>5 = 2
+[amplicon1] #Foldbacks = 3
+[amplicon1] #CoverageShiftsWithBreakpointEdges = 4
+[amplicon1] -----------------------------------------------------------------------------------------

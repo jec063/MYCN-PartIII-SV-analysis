@@ -1,0 +1,12 @@
+{
+  "cancer_type": "Medulloblastoma",
+  "sample_type": "Primary tumour - solid tissue",
+  "race": "ASN",
+  "tumor_stage": "G4",
+  "days_to_death": 487.0,
+  "days_to_last_follow_up": 487.0,
+  "smoking_history": "Smoking history not documented",
+  "patient_sex": "female",
+  "aa_sample_name": "74013eaf-81b2-5fb7-82d7-1bba2317ebf7__f54bae72-2904-55fc-b317-797f0d6ee1a6",
+  "provider_sample_name": "SP78677"
+}

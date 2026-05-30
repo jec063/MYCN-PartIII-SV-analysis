@@ -1,0 +1,13 @@
+Interval	1	chr19	23414849	23425784
+Interval	2	chr19	24026832	24155689
+List of cycle segments
+Segment	1	chr19	23414849	23420006
+Segment	2	chr19	23414849	23425784
+Segment	3	chr19	23424849	23425784
+Segment	4	chr19	24026832	24135767
+Segment	5	chr19	24026832	24155689
+Segment	6	chr19	24026958	24135767
+Cycle=1;Copy_count=3.58817350497;Segments=0+,5-,0-
+Cycle=2;Copy_count=1.88464990217;Segments=0+,3-,6+,1-,0-
+Cycle=3;Copy_count=1.06267101294;Segments=0+,2-,0-
+Cycle=4;Copy_count=0.557053730076;Segments=0+,1+,4-,0-
