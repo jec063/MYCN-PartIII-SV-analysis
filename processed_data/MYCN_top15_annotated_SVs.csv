@@ -1,0 +1,16 @@
+SV_ID,breakpoint_1,breakpoint_2,sv_type,frequency_count,total_samples,frequency_fraction,adult_count,pediatric_count,cohort_pattern,near_MYCN_1Mb,distance_to_MYCN_bp,samples,interpretation
+SV_001,chr2:16226496-,chr2:16225141+,intrachromosomal,4,14,0.2857,0,4,Pediatric only,yes,0,BS_ANZMQ09Q;BS_BF2MCS03;BS_DPRBAXTR;BS_P3NDA9Z7,Pediatric-specific recurrent intrachromosomal breakpoint near MYCN
+SV_002,chr2:16226496-,chr2:16225124-,intrachromosomal,3,14,0.2143,0,3,Pediatric only,yes,0,BS_ANZMQ09Q;BS_DPRBAXTR;BS_P3NDA9Z7,Pediatric-specific recurrent intrachromosomal breakpoint near MYCN
+SV_003,chr2:16225236+,chr2:16225236+,intrachromosomal,3,14,0.2143,0,3,Pediatric only,yes,0,BS_ANZMQ09Q;BS_BF2MCS03;BS_P3NDA9Z7,Pediatric-specific recurrent intrachromosomal breakpoint near MYCN
+SV_004,chr2:16226719+,chr2:16225124-,intrachromosomal,3,14,0.2143,0,3,Pediatric only,yes,0,BS_ANZMQ09Q;BS_BF2MCS03;BS_P3NDA9Z7,Pediatric-specific recurrent intrachromosomal breakpoint near MYCN
+SV_005,chr2:16407764-,chr2:16406409+,intrachromosomal,2,14,0.1429,2,0,PCAWG/adult only,yes,179409,DO35556-SP78677;DO35573-SP78718,Adult-specific recurrent intrachromosomal breakpoint near MYCN
+SV_006,chr2:23614-,chr2:20479-,intrachromosomal,2,14,0.1429,0,2,Pediatric only,no,16201386,BS_ANZMQ09Q;BS_BF2MCS03,Recurrent intrachromosomal breakpoint outside the MYCN window
+SV_007,chr2:32306+,chr2:23930+,intrachromosomal,2,14,0.1429,0,2,Pediatric only,no,16192694,BS_ANZMQ09Q;BS_BF2MCS03,Recurrent intrachromosomal breakpoint outside the MYCN window
+SV_008,chr2:9343870-,chr2:8700774-,intrachromosomal,2,14,0.1429,0,2,Pediatric only,no,6881130,BS_ANZMQ09Q;BS_BF2MCS03,Recurrent intrachromosomal breakpoint outside the MYCN window
+SV_009,chr2:11237570+,chr2:8702135-,intrachromosomal,2,14,0.1429,0,2,Pediatric only,no,4987430,BS_ANZMQ09Q;BS_BF2MCS03,Recurrent intrachromosomal breakpoint outside the MYCN window
+SV_010,chr2:12887255-,chr2:9342398+,intrachromosomal,2,14,0.1429,0,2,Pediatric only,no,3337745,BS_ANZMQ09Q;BS_BF2MCS03,Recurrent intrachromosomal breakpoint outside the MYCN window
+SV_011,chr2:12972605+,chr2:12972605+,intrachromosomal,2,14,0.1429,0,2,Pediatric only,no,3252395,BS_ANZMQ09Q;BS_BF2MCS03,Recurrent intrachromosomal breakpoint outside the MYCN window
+SV_012,chr2:13907715+,chr2:13114300-,intrachromosomal,2,14,0.1429,0,2,Pediatric only,no,2317285,BS_ANZMQ09Q;BS_BF2MCS03,Recurrent intrachromosomal breakpoint outside the MYCN window
+SV_013,chr2:14315133-,chr2:14312246+,intrachromosomal,2,14,0.1429,0,2,Pediatric only,no,1909867,BS_ANZMQ09Q;BS_BF2MCS03,Recurrent intrachromosomal breakpoint outside the MYCN window
+SV_014,chr2:16474297+,chr2:23726-,intrachromosomal,2,14,0.1429,0,2,Pediatric only,yes,247297,BS_ANZMQ09Q;BS_BF2MCS03,Pediatric-specific recurrent intrachromosomal breakpoint near MYCN
+SV_015,chr2:16474309+,chr2:23782+,intrachromosomal,2,14,0.1429,0,2,Pediatric only,yes,247309,BS_ANZMQ09Q;BS_BF2MCS03,Pediatric-specific recurrent intrachromosomal breakpoint near MYCN
